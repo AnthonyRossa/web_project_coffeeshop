@@ -8,6 +8,7 @@
   position: relative;
   box-sizing: border-box;
   background-image: url(/images/background_header.svg);
+  background-size: cover;
 }
 
 .header__title {
