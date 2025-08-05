@@ -23,7 +23,5 @@
 }
 
 .nav__link:hover {
-  font-size: 18px;
-  transition: 0.5s;
-  text-decoration: underline;
+  color: #2f80ed;
 }
